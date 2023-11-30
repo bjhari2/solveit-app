@@ -1,0 +1,53 @@
+@import url('../bootstrap/css/bootstrap.min.css');
+
+ul {
+    margin: 0;
+}
+
+.mode {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.mode:hover {
+    cursor: pointer;
+}
+
+.mode-text {
+    width: 100px;
+}
+
+.navbar-brand {
+    margin-left: 15px;
+    font-size: x-large;
+    font-family: 'Pacifico';
+}
+
+.navbar {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.utils {
+    display: flex;
+    flex-direction: row;
+}
+
+.color-palette {
+    margin-right: 5px;
+}
+
+.theme {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.dropdown-items {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,14 @@
+.img {
+    height: 110px;
+    width: 147px;
+}
+
+.pacifico {
+    font-family: 'Pacifico';
+    font-weight: 500;
+}
+
+
+.container {
+    background: var(--accent-a2);
+}

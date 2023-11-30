@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Pacifico';
+    src: url('./assets/fonts/Pacifico/Pacifico-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('./assets/fonts/Inter/Inter-VariableFont_slnt\,wght.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('./assets/fonts/Lato/Lato-Regular.ttf');
+}
